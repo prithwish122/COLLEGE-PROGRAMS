@@ -10,9 +10,4 @@ int main()
     num2=t;
     printf("numbers after swapping =%d%d",num1,num2);
     return 0;
-
-
-    
-    
-    
 }
